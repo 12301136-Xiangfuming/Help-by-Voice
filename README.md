@@ -1,4 +1,4 @@
-# Help by Audio
+# Help by Voice
 #Brief description —-
 This APP is to deal with the problem in people’s daily life which can not be expressed in text description. Many people 
 hear the melody of the song in daily life inadvertently, but can not think of the lyrics sometimes, this kind of problem 
@@ -12,6 +12,4 @@ that it eliminates the inability caused by pool ability of text description to e
 
 
 #Audience description —-
-This APP is arming at the people who have the impression of songs but cannot  make determination and the people who are
-meeting with the problems of dialect which are only able to be solved by the local citizen in traveling or on business 
-of all age whenever or wherever they need help.
+This APP is a
